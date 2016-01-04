@@ -1,0 +1,28 @@
+name: dummydata
+favicon: null
+layout_spectrum: 0.8696093084290624
+typography_spectrum: 0.19372473587282002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9112833656836301
+  lightness: 0.1875
+  saturation: 0.8946412785444409
+  rhythmicContrast: 0.25
+purpose: []
