@@ -1,7 +1,7 @@
 name: dummydata
 favicon: null
-layout_spectrum: 0.8696093084290624
-typography_spectrum: 0.19372473587282002
+layout_spectrum: 0.2469
+typography_spectrum: 0.24881
 cta:
   domain: null
   bucket: null
